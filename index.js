@@ -13,17 +13,4 @@ for (let key in salaries) {
 }
 
 
-// const arrVal = Object.values(salaries)
-
-// for(let i = 0; i < arrVal.length; i++){
-//   sum = sum + arrVal[i]
-// }
-
-// arrVal.forEach((elem)=>{
-//     sum = sum + elem
-// })
-
-
-// sum = Object.values(salaries).reduce((acc, cur) => acc + cur, 0)
-
 console.log('sum', sum)
