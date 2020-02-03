@@ -26,6 +26,4 @@ for (let key in salaries) {
 
 // sum = Object.values(salaries).reduce((acc, cur) => acc + cur, 0)
 
-
-
 console.log('sum', sum)
