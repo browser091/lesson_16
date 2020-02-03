@@ -12,5 +12,4 @@ for (let key in salaries) {
     }
 }
 
-
 console.log('sum', sum)
